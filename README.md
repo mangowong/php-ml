@@ -1,4 +1,4 @@
-# PHP-ML - Machine Learning library for PHP
+# PHP-ML - Machine Learning library for PHP-7
 
 [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%207.0-8892BF.svg)](https://php.net/)
 [![Latest Stable Version](https://img.shields.io/packagist/v/php-ai/php-ml.svg)](https://packagist.org/packages/php-ai/php-ml)
